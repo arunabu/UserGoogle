@@ -1,0 +1,2 @@
+rootProject.name='UserGoogle'
+include ':app'
